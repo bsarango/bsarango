@@ -67,14 +67,6 @@ class Engineer:
 
 <br/>
 
-## Certifications
-
-- **AWS Certified Solutions Architect – Associate** (SAA-C03)
-- **AWS Certified AI Practitioner** (AIF-C01)
-- **TryHackMe** – Web Application Security
-
-<br/>
-
 ## Projects
 
 | | Project | Description |
